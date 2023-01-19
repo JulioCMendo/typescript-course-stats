@@ -16,7 +16,7 @@ yarn.lock
 # Editor directories and files
 .parcel-cache/*
 .vscode/*
-build/*
+build
 !.vscode/extensions.json
 .idea
 .DS_Store
